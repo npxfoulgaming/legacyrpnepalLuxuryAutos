@@ -197,23 +197,23 @@ body.loading-rotation .vehicle .details::before {
 }
 
 .vehicle .details .colors .color[data-color=mb] {
-    background-image: url(/images/colors/mb.png)
+    background-image: url(images/colors/mb.png)
 }
 
 .vehicle .details .colors .color[data-color=mw] {
-    background-image: url(/images/colors/mw.png)
+    background-image: url(images/colors/mw.png)
 }
 
 .vehicle .details .colors .color[data-color=r] {
-    background-image: url(/images/colors/r.png)
+    background-image: url(images/colors/r.png)
 }
 
 .vehicle .details .colors .color[data-color=g] {
-    background-image: url(/images/colors/g.png)
+    background-image: url(images/colors/g.png)
 }
 
 .vehicle .details .colors .color[data-color=b] {
-    background-image: url(/images/colors/b.png)
+    background-image: url(images/colors/b.png)
 }
 
 .vehicle.invert .details .colors {
