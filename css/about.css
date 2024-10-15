@@ -1,5 +1,5 @@
 body::before {
-    background-image: url(/images/main/about.png)
+    background-image: url(images/main/about.png)
 }
 
 #page {
@@ -57,7 +57,7 @@ h2 a.external {
     display: block;
     height: 20px;
     width: 20px;
-    background-image: url(/images/main/link.png);
+    background-image: url(images/main/link.png);
     background-size: cover;
     background-position: center
 }
